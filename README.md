@@ -1,0 +1,2 @@
+# sn-nuxt
+nuxt
